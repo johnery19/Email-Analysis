@@ -91,7 +91,10 @@ For the purpose of this analysis, some transformations were applied to the datas
 
 By focusing on these areas, the organization can improve its internal communication, enhance employee engagement, and foster a more positive work environment.
 
----
+# Power BI Report
+
+You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMTkzNmE5MzMtNjU1Ni00NmY1LTgwMmMtY2YxNjA5MWMxYjQ4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
+
 
 ### **6. Tools Used**
 
